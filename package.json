@@ -1,0 +1,22 @@
+{
+  "name": "sayam-chat-utils",
+  "version": "1.1.0",
+  "description": "An advanced utility helper for formatting dates, filtering text, and generating unique IDs inside Node.js chat systems.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node --test test/utils.test.js"
+  },
+  "keywords": [
+    "chat",
+    "utils",
+    "date-formatter",
+    "censor",
+    "unique-id"
+  ],
+  "author": "Sayam Coder",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sayamcoder/sayam-chat-utils.git"
+  }
+}
